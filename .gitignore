@@ -1,2 +1,6 @@
 *ipynb_checkpoints
 *Notebook-checkpoint
+.mongo/
+mongo/*
+.DS_Store
+.ipynb_checkpoints
